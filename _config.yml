@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tao Chen / University of California, Santa Barbara"
+title                    : "Tao Chen"
 title_separator          : "-"
 name                     : &name "Tao Chen"
 description              : &description "Visiting Assistant Professor"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tao Chen"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor"
+  bio              : "Visiting Assistant Professor, University of California, Santa Barbara"
   location         : "California"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
