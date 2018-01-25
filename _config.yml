@@ -81,8 +81,8 @@ author:
   name             : "Tao Chen"
   avatar           : "profile.png"
   bio              : "Visiting Assistant Professor"
-  location         : "Santa Barbara, California"
-  employer         : "Department of Statistics and Applied Probability, University of California, Santa Barbara"
+  location         :
+  employer         : "University of California, Santa Barbara"
   googlescholar    : "https://scholar.google.com/citations?user=K1hOJuEAAAAJ"
   email            :
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/tchen29/
   orcid            :
   pinterest        :
   soundcloud       :
