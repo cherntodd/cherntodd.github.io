@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "Tao Chen - Department of Statistics and Applied Probability - University of California, Santa Barbara"
+title: "Tao Chen
+        Department of Statistics and Applied Probability
+		University of California, Santa Barbara"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
