@@ -80,11 +80,10 @@ analytics:
 author:
   name             : "Tao Chen"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor
-                      University of California, Santa Barbara"
+  bio              : "Visiting Assistant Professor at University of California, Santa Barbara"
   location         : "California"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -93,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cherntodd"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/tchen29/
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
