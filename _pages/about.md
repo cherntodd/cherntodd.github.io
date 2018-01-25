@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tao Chen"
+title: "Tao Chen 陈陶"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
