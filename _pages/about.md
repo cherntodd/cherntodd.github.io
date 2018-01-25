@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 Visting Assistant Professor  
-Department of Statistics and Applied Probability
+Department of Statistics and Applied Probability  
+University of California, Santa Barbara
