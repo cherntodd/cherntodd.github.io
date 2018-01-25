@@ -11,3 +11,6 @@ redirect_from:
 Visting Assistant Professor  
 [Department of Statistics and Applied Probability](http://www.pstat.ucsb.edu)  
 [University of California, Santa Barbara](https://www.ucsb.edu)
+
+Office: South Hall 5519  
+Email: tchen(at)pstat(dot)ucsb(dot)edu
