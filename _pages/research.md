@@ -9,7 +9,7 @@ Parametric Optimization, Robust Stochastic Control and Statistical Surrogates
 
 Risk-Averse Control of Markov Systems with Model Uncertainty
 
-**Publications**
+**Publications & Submissions**
 
 <ol>
     <li value="3">Adaptive Robust Control Under Model Uncertainty (with Tomasz R. Bielecki, Igor Cialenco, Areski Cousin and Monique Jeanblanc) submitted for publication (22 pages), 2017. <a href="https://arxiv.org/abs/1706.02227">arXiv</a>, <a href="">PDF</a></li>
