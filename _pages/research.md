@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 author_profile: true
 ---
-$~$
+<br>
 
 **Current Projects**
 

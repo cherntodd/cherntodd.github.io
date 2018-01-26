@@ -3,7 +3,7 @@ permalink: /talk/
 title: "Talks and Posters"
 author_profile: true
 ---
-  
+<br>
 
 Adaptive Robust Hedging under Model Uncertainty  
 Matheamtical Finance Colloquium, University of Southern California, 2017
