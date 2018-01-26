@@ -4,7 +4,6 @@ title: "Research"
 author_profile: true
 ---
 <br>
-
 **Current Projects**
 
 Parametric Optimization, Robust Stochastic Control and Statistical Surrogates
