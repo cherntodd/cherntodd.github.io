@@ -1,12 +1,13 @@
 ---
 permalink: /teach/
-title: "Current Courses"
 author_profile: true
 ---
+### Current Courses
+
 **Department of Statistics and Applied Probability**  
 PSTAT 170 (Introduction to Mathematical Finance), Winter 2018
 
-##  Teaching Experience
+### Teaching Experience
 
 **Department of Statistics and Applied Probability**  
 PSTAT 120A (Probability and Statistics), Fall 2017
