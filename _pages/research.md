@@ -11,8 +11,8 @@ Risk-Averse Control of Markov Systems with Model Uncertainty
 
 **Publications**
 
-3. Adaptive Robust Control Under Model Uncertainty (with Tomasz R. Bielecki, Igor Cialenco, Areski Cousin and Monique Jeanblanc) submitted for publication (22 pages), 2017. [arXiv](https://arxiv.org/abs/1706.02227)
+0. Adaptive Robust Control Under Model Uncertainty (with Tomasz R. Bielecki, Igor Cialenco, Areski Cousin and Monique Jeanblanc) submitted for publication (22 pages), 2017. [arXiv](https://arxiv.org/abs/1706.02227)
 
-2. Recursive Construction of Confidence Regions (with Tomasz R. Bielecki and Igor Cialenco) Electron. J. Statist. 11(2), 4674-4700. (27 pages), 2016.
+0. Recursive Construction of Confidence Regions (with Tomasz R. Bielecki and Igor Cialenco) Electron. J. Statist. 11(2), 4674-4700. (27 pages), 2016.
 
-1. Dynamic Conic Finance via Backward Stochastic Difference Equations (with Tomasz R. Bielecki and Igor Cialenco) SIAM Journal of Financial Mathematics, 6(1), 1068-1122. (55 pages), 2015.
+0. Dynamic Conic Finance via Backward Stochastic Difference Equations (with Tomasz R. Bielecki and Igor Cialenco) SIAM Journal of Financial Mathematics, 6(1), 1068-1122. (55 pages), 2015.
