@@ -19,3 +19,9 @@ South Hall 5607A
 Department of Statistics and Applied Probability  
 University of California, Santa Barbara  
 Santa Barbara, CA 93106
+
+**Research Interests**  
+Stochastic Processes, Stochastic Analysis, and Mathematical Finance  
+Performance Measures and Risk Measures  
+Stochastic Control and Robust Methods  
+Statistical Inference for Stochastic Processes
