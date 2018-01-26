@@ -1,10 +1,7 @@
 ---
-permalink: /Research/
-title: "Research"
+permalink: /research/
 author_profile: true
 ---
-
-{% include base_path %}
 
 **Current Projects**
 
