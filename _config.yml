@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tao Chen / UC Santa Barbara"
 title_separator          : "-"
 name                     : &name "Tao Chen"
-description              : &description "Visiting Assistant Professor at UCSB"
+description              : &description "Tao Chen Visiting Assistant Professor UCSB"
 url                      : https://cherntodd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cherntodd/cherntodd.github.io"
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "N2HR9N7B0aIWThqkZBHrOg2tr4d_2Xt8Uc0N-VEMNvE"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
