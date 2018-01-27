@@ -26,6 +26,6 @@ Santa Barbara, CA 93106
 
 **Research Interests**  
 Stochastic Processes, Stochastic Analysis, and Mathematical Finance  
-Performance Measures and Risk Measures  
+Performance Measures, Risk Measures, and Conic Finance  
 Stochastic Control and Robust Methods  
 Statistical Inference for Stochastic Processes
