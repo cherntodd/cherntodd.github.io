@@ -6,8 +6,9 @@ author_profile: true
 <br>
 **Department of Statistics and Applied Probability, UCSB**
 
-PSTAT 120A (Probability and Statistics), Fall 2017  
+PSTAT 120A (Probability and Statistics), Fall 2017, Spring 2018  
 PSTAT 170 (Introduction to Mathematical Finance), Winter 2018
+PSTAT 176/276 (Advanced Mathematical Finance), Spring 2018
 
 **Department of Applied Mathematics, IIT**
 
