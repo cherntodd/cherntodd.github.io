@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 Adaptive Robust Trading under Model Uncertainty  
-10th World Congress of the Bachelier Finance Society, 2018
+10th World Congress of the Bachelier Finance Society, Dublin, Ireland, 2018
 
 Adaptive Robust Hedging under Model Uncertainty  
 Matheamtical Finance Colloquium, University of Southern California, 2017
