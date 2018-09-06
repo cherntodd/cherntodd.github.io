@@ -4,6 +4,9 @@ title: "Talks and Posters"
 author_profile: true
 ---
 <br>
+Adaptive Robust Stochastic Control and Statistical Surrogates  
+Robust Techniques in Quantitative Finance, Oxford, UK, 2018
+
 Adaptive Robust Trading under Model Uncertainty  
 10th World Congress of the Bachelier Finance Society, Dublin, Ireland, 2018
 
