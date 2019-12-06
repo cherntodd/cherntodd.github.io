@@ -6,15 +6,17 @@ author_profile: true
 <br>
 **Department of Statistics and Applied Probability, UCSB**
 
-PSTAT 199 (Independent Study), Summer 2018  
-PSTAT 120A (Probability and Statistics), Fall 2017, 2018, Spring 2018, Winter 2019, Summer 2018, 2019  
-PSTAT 160A Applied Stochastic Process, Fall 2019  
-PSTAT 170 (Introduction to Mathematical Finance), Winter 2018, 2019, Spring 2019  
-PSTAT 171 (Mathematics of Fixed Income Market), Spring 2019  
-PSTAT 176/276 (Advanced Mathematical Finance), Spring 2018
+PSTAT 199 (Independent Study), M2018  
+PSTAT 120A (Probability and Statistics), F2017, 2018, W2019, S2018, M2018, 2019  
+PSTAT 160A Applied Stochastic Process, F2019  
+PSTAT 170 (Introduction to Mathematical Finance), W2018, 2019, S2019  
+PSTAT 171 (Mathematics of Fixed Income Market), S2019  
+PSTAT 176/276 (Advanced Mathematical Finance), S2018
 
 **Department of Applied Mathematics, IIT**
 
-MATH 252 (Introduction to Differential Equations), Fall 2016, Spring 2017  
-MATH 333 (Matrix Algebra and Complex Variables), Spring 2017  
-MATH 474 (Probability and Statistics), Summer 2017
+MATH 252 (Introduction to Differential Equations), F2016, S2017  
+MATH 333 (Matrix Algebra and Complex Variables), S2017  
+MATH 474 (Probability and Statistics), M2017
+
+* F: Fall, W: Winter, S: Spring, M: Summer
