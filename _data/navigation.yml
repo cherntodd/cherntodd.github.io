@@ -4,10 +4,10 @@ main:
     url: /research/
 
   - title: "Talks"
-    url: /talk/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: /teach/    
+    url: /teaching/    
     
   - title: "Curriculum Vita"
     url: /files/CV_TaoChen.pdf

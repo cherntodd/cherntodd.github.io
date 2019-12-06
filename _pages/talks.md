@@ -1,5 +1,5 @@
 ---
-permalink: /talk/
+permalink: /talks/
 title: "Talks and Posters"
 author_profile: true
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /teach/
+permalink: /teaching/
 title: "Teaching Experience"
 author_profile: true
 ---
