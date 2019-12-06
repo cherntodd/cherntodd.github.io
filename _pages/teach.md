@@ -19,4 +19,4 @@ MATH 252 (Introduction to Differential Equations), F2016, S2017
 MATH 333 (Matrix Algebra and Complex Variables), S2017  
 MATH 474 (Probability and Statistics), M2017
 
-* F: Fall, W: Winter, S: Spring, M: Summer
+\* F: Fall, W: Winter, S: Spring, M: Summer
