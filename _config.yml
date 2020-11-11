@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tao Chen / UC Santa Barbara"
+title                    : "Tao Chen / UM"
 title_separator          : "-"
 name                     : &name "Tao Chen"
-description              : &description "Tao Chen Visiting Assistant Professor UCSB"
+description              : &description "Tao Chen Postdoctoral Assistant Professor UM Ann Arbor"
 url                      : https://cherntodd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cherntodd/cherntodd.github.io"
@@ -81,8 +81,8 @@ author:
   name             :
   avatar           : "Chen.jpg"
   bio              : "Stand Alone Complex"
-  location         : "Santa Barbara, CA"
-  employer         : "UCSB"
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan Ann Arbor"
   googlescholar    : "https://scholar.google.com/citations?user=K1hOJuEAAAAJ"
   email            :
   uri              :
