@@ -15,7 +15,7 @@ PSTAT 120A (Probability and Statistics), F2017, 2018, W2019, S2018, M2018, 2019
 PSTAT 160A Applied Stochastic Process, F2019, W2020  
 PSTAT 170 (Introduction to Mathematical Finance), W2018, 2019, S2019, 2020  
 PSTAT 171 (Mathematics of Fixed Income Market), S2019, W2020  
-PSTAT 176/276 (Advanced Mathematical Finance), S2018, S2020
+PSTAT 176/276 (Advanced Mathematical Finance), S2018, 2020
 
 **Department of Applied Mathematics, IIT**
 
