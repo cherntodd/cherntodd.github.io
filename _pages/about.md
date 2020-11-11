@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Postdoctoral Assistant Professor  
-[Department of Mathematics(https://lsa.umich.edu/math)  
+[Department of Mathematics](https://lsa.umich.edu/math)  
 [University of Michigan, Ann Arbor](https://umich.edu/)
 
 I received my PhD in August, 2016 from [Department of Applied Mathematics](https://science.iit.edu/applied-mathematics), [Illinois Institute of Technology](https://web.iit.edu/) supervised by [Tomasz Bielecki](http://math.iit.edu/~bielecki/) and [Igor Cialenco](http://www.math.iit.edu/~igor/).
