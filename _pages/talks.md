@@ -4,6 +4,12 @@ title: "Talks and Posters"
 author_profile: true
 ---
 <br>
+Nonparametric Adaptive Bayesian Optimal Control  
+Mathematical Finance Colloquium, University of Southern California, 2020
+
+Adaptive Robust Stochastic Control  
+Financial/Actuarial Mathematics Seminar, University of Michigan, Ann Arbor, 2020
+
 Parametric Optimization, Robust Stochastic Control and Statistical Surrogates  
 SIAM Conference on Financial Mathematics & Engineering, Toronto, 2019
 
@@ -20,7 +26,7 @@ Adaptive Robust Trading under Model Uncertainty
 10th World Congress of the Bachelier Finance Society, Dublin, Ireland, 2018
 
 Adaptive Robust Hedging under Model Uncertainty  
-Matheamtical Finance Colloquium, University of Southern California, 2017
+Mathematical Finance Colloquium, University of Southern California, 2017
 
 Market Making via Sub-scale Invariant Dynamic Acceptability Indices  
 CFMAR Seminar, University of California, Santa Barbara, 2017
