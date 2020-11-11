@@ -5,6 +5,7 @@ author_profile: true
 ---
 <br>
 **Department of Mathematics, UM**
+
 MATH 526 (Discrete State Stochastic Processes), F2020
 
 **Department of Statistics and Applied Probability, UCSB**
