@@ -6,10 +6,6 @@ author_profile: true
 <br>
 **Current Projects**
 
-Robust Optimal Stopping
-
-Adaptive Robust Risk-Sensitive Markovian Control
-
 Adaptive Robust Optimal Execution
 
 **Publications & Submissions**

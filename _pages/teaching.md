@@ -6,7 +6,9 @@ author_profile: true
 <br>
 **Department of Mathematics, UM**
 
-MATH 526 (Discrete State Stochastic Processes), F2020
+MATH 116 (Calculus 2), F2021  
+MATH 526 (Discrete State Stochastic Processes), F2020  
+MATH 623 (Computational Finance), W2021, F2022
 
 **Department of Statistics and Applied Probability, UCSB**
 

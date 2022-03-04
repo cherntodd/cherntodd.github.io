@@ -5,6 +5,12 @@ author_profile: true
 ---
 <br>
 Nonparametric Adaptive Bayesian Optimal Control  
+SIAM Conference on Financial Mathematics & Engineering, 2021
+
+Nonparametric Adaptive Bayesian Optimal Control  
+Applied Mathematics Colloquia, Illinois Institute of Technology, 2021
+
+Nonparametric Adaptive Bayesian Optimal Control  
 Mathematical Finance Colloquium, University of Southern California, 2020
 
 Adaptive Robust Stochastic Control  
