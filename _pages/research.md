@@ -11,7 +11,7 @@ Adaptive Robust Optimal Execution
 **Publications & Submissions**
 
 <ol>
-    <li value="8">Nonparametric Adaptive Robust Control under Model Uncertainty (with Erhan Bayraktar) Preprint (24 pages), 2022. <a href="https://arxiv.org/abs/2202.10391">arXiv</a>, <a href="http://taochen.im/files/nonprametric.pdf">PDF</a></li>
+    <li value="8">Nonparametric Adaptive Robust Control under Model Uncertainty (with Erhan Bayraktar) Preprint (24 pages), 2022. <a href="https://arxiv.org/abs/2202.10391">arXiv</a>, <a href="http://taochen.im/files/nonparametric.pdf">PDF</a></li>
     <li value="7">Risk-Sensitive Markov Decision Problems under Model Uncertainty: Finite Time Horizon Case (with Tomasz R. Bielecki and Igor Cialenco) Preprint (21 pages), 2021. <a href="https://arxiv.org/abs/2104.06915">arXiv</a>, <a href="http://taochen.im/files/risk-sensitive.pdf">PDF</a></li>
     <li value="6">Nonparametric Adaptive Bayesian Stochastic Control under Model Uncertainty (with Jiyoun Myung) Preprint (27 pages), 2020. <a href="https://arxiv.org/abs/2011.04804">arXiv</a>, <a href="http://taochen.im/files/AdaptiveBayesian.pdf">PDF</a></li>
 	<li value="5">Time-Inconsistent Markovian Control Problems under Model Uncertainty with Application to the Mean-Variance Portfolio Selection (with Tomasz R. Bielecki and Igor Cialenco) International Journal of Theoretical and Applied Finance, 24(1). (24 pages), 2021. <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219024921500035">DOI:10.1142/S0219024921500035</a>, <a href="http://taochen.im/files/Time-Inconsistent.pdf">PDF</a></li>
