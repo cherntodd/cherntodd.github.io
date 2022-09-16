@@ -4,6 +4,12 @@ title: "Talks and Posters"
 author_profile: true
 ---
 <br>
+Adaptive Robust Optimal Execution with Price Impact  
+SIAM Annual Meeting, 2022
+
+Market Making and Derivative Pricing via Dynamic Conic Finance  
+Decision Making and Uncertainty, Institute for Mathematical and Statistical Innovation, 2022
+
 Nonparametric Adaptive Bayesian Optimal Control  
 SIAM Conference on Financial Mathematics & Engineering, 2021
 

@@ -11,6 +11,7 @@ Adaptive Robust Optimal Execution
 **Publications & Submissions**
 
 <ol>
+    <li value="10">Data-Driven Nonparametric Robust Control under Dependence Uncertainty (with Erhan Bayraktar) Preprint (25 pages), 2022. <a href="https://arxiv.org/abs/2209.04976">arXiv</a>, <a href="http://taochen.im/files/copula.pdf">PDF</a></li>
     <li value="9">On Parametric Optimal Execution and Machine Learning Surrogates (with Michael Ludkovski and Moritz Voss) Preprint (29 pages), 2022. <a href="https://arxiv.org/abs/2204.08581">arXiv</a>, <a href="http://taochen.im/files/execution.pdf">PDF</a></li>
     <li value="8">Nonparametric Adaptive Robust Control under Model Uncertainty (with Erhan Bayraktar) Preprint (24 pages), 2022. <a href="https://arxiv.org/abs/2202.10391">arXiv</a>, <a href="http://taochen.im/files/nonparametric.pdf">PDF</a></li>
     <li value="7">Risk-Sensitive Markov Decision Problems under Model Uncertainty: Finite Time Horizon Case (with Tomasz R. Bielecki and Igor Cialenco) Preprint (21 pages), 2021. <a href="https://arxiv.org/abs/2104.06915">arXiv</a>, <a href="http://taochen.im/files/risk-sensitive.pdf">PDF</a></li>
